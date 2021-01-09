@@ -1,2 +1,2 @@
 # ResolutionMpxDpi
-  Convert resolution to Mpx with Dpi and superprecision for Mpx
+  Convert resolution to Mpx with Dpi and float accuracy for Mpx
